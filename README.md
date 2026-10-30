@@ -56,7 +56,7 @@ This repository is for educational resources related to Quantum Computing. I hop
 * [Quantum-inspired Genetic Algorithms](papers/Quantum-inspired%20genetic%20algorithms.pdf)
 * [Strengths and Weaknesses of Quantum Computing](papers/STRENGTHS%20AND%20WEAKNESSES%20OF%20QUANTUM%20COMPUTING%20-%20bennett1997.pdf)
 * [The Limits of Quantum Computers](papers/The%20Limits%20of%20Quantum%20Computers%20-%20Scott%20Aaronson.pdf)
-* [What is the Computational Value of Finite Range Tunneling?](papers/What%20is%20the%20Computational%20Value%20of%20Finite%20Range%20Tunneling?%20-%20Google%20Researchers.pdf)
+* [What is the Computational Value of Finite Range Tunneling?](papers/What%20is%20the%20Computational%20Value%20of%20Finite%20Range%20Tunneling%20-%20Google%20Researchers.pdf)
 * [Why now is the right time to study quantum computing](papers/Why%20now%20is%20the%20right%20time%20to%20study%20quantum%20computing%20-%20Harrow%202015.pdf)
 
 ---
@@ -84,3 +84,12 @@ This repository is for educational resources related to Quantum Computing. I hop
 * [IBM Experience (Computer)](https://quantumexperience.ng.bluemix.net/qx/experience)
 * [Quirk (Simulator)](http://algassert.com/quirk)
 * [Quantum Computing Playground (Simulator)](http://www.quantumplayground.net/)
+
+## 维护与在线文档
+
+本仓库是 [JohnCoogan/learnquantum](https://github.com/JohnCoogan/learnquantum) 的 Fork，保留上游来源、目录约定及许可证。
+
+- [在线维护文档](https://xiaoshecode.github.io/xiaoshecode/repos/learnquantum/)
+- [仓库维护说明](MAINTENANCE.md)：用途、环境、目录结构、检查结果和待验证事项。
+
+2026-10-30 的检查范围以维护说明为准；语法检查通过不代表完整构建、模型训练或硬件验证通过。
